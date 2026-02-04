@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tribute to Wangari Maathai</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Tribute to Wangari Maathai</h1>
+        <p>The woman who planted hope</p>
+    </header>
+
+    <main>
+        <section class="intro">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wangari_Maathai_2001.jpg" alt="Wangari Maathai">
+            <p>
+                Wangari Maathai was a Kenyan environmentalist, political activist, and Nobel Peace Prize winner.
+                She is admired for her courage, leadership, and dedication to protecting the environment.
+            </p>
+        </section>
+
+        <section>
+            <h2>Why I Admire Her</h2>
+            <ul>
+                <li>She founded the Green Belt Movement</li>
+                <li>She fought for environmental conservation</li>
+                <li>She inspired women across Africa</li>
+                <li>She won the Nobel Peace Prize in 2004</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Her Legacy</h2>
+            <p>
+                Wangari Maathai showed the world that one person can make a difference.
+                Her work continues to inspire people to care for nature and stand up for what is right.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by: Your Name | BSD 313 Internet Programming</p>
+    </footer>
+
+</body>
+</html> 
